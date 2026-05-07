@@ -5,6 +5,16 @@ const projects = [
     desc: "Built a full-stack dynamic news platform featuring real-time data fetching and a centralized content management system. Managed MongoDB schemas for efficient storage and retrieval of daily news articles.",
   },
   {
+    title: "Tour Package Booking System",
+    link: "https://auraholiday.netlify.app",
+    desc: "A full-stack web application for browsing, booking, and managing tour packages with user authentication, dynamic listings, and real-time booking management.",
+  },
+  {
+    title: "E-Commerce Platform",
+    link: "https://aurashops.netlify.app",
+    desc: "A MERN-based e-commerce platform with product management, cart system, secure authentication, and online payment integration.",
+  },
+  {
     title: "Invoice Builder Pro",
     link: "https://invoicebuilderpro.netlify.app",
     desc: "Designed a productivity tool that allows users to generate professional invoices with dynamic calculation logic. Optimized styling using Tailwind CSS for better performance.",
