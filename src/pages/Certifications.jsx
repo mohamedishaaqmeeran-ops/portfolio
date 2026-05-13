@@ -48,6 +48,19 @@ function Certifications() {
           </div>
         ))}
       </div>
+
+      
+      <div className="text-center mt-12">
+        <a
+          href="https://drive.google.com/drive/folders/1Q1JqWNsNTCFa2jrRqn1Mi6OLrI7MYpaF?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block px-8 py-4 bg-cyan-500 text-white font-semibold rounded-full
+                     hover:bg-cyan-600 transition duration-300"
+        >
+          View Certificates
+        </a>
+      </div>
     </section>
   );
 }
